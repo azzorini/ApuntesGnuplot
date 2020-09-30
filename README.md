@@ -1,1 +1,1 @@
-# ApuntesGnuplot
+# Apuntes Gnuplot
